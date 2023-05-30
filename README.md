@@ -9,7 +9,7 @@ A mechanical engineer turned to software engineer.
 Contributing to open source :)
 </br>
 
-## Languages:
+## 🛸 Languages:
 <img align="left" alt="Java" width="51px" hspace ="10" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img align="left" alt="C" width="51px" hspace ="11" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="51px" hspace ="11" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
@@ -19,7 +19,13 @@ Contributing to open source :)
 </br>
 </br>
 
-## Stats
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=omkarborhade98&show_icons=true&theme=dark" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarborhade98&theme=dark" />
+## 💯 Stats
+<p float="left">
+  <img width="401" height="203" src="https://github-readme-stats.vercel.app/api?username=omkarborhade98&show_icons=true&theme=dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="401" height="203" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarborhade98&theme=dark" />
+ </p>
+
+## 🎨 My HOLOPIN Board 
+[![An image of @omkarborhade98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omkarborhade98)](https://holopin.io/@omkarborhade98)
   
