@@ -10,12 +10,13 @@ Contributing to open source :)
 </br>
 
 ## 🛸 Languages:
-<img align="left" alt="Java" width="51px" hspace ="10" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="C" width="51px" hspace ="11" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
-<img align="left" alt="C++" width="51px" hspace ="11" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="C#" width="51px" hspace ="11" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" />
-<img align="left" alt="Python" width="51px" hspace ="11" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-</br>
+<div>
+<img align="left" alt="Java" width="35px" hspace ="7" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+<img align="left" alt="C" width="35px" hspace ="7" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
+<img align="left" alt="C++" width="35px" hspace ="7" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="C#" width="35px" hspace ="7" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" />
+<img align="left" alt="Python" width="35px" hspace ="11" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+</div>
 </br>
 </br>
 
