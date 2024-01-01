@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Omkar%20Borhade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-borhade-52777b131/)](https://www.linkedin.com/in/omkar-borhade-52777b131/)
 [![Gmail](https://img.shields.io/badge/-omkarborhade121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omkarborhade121@gmail.com)](mailto:omkarborhade121@gmail.com)</br>
 </br>
-A mechanical engineer turned to software engineer.
+A mechanical engineer turned to software engineer and AI devolaper
 </br>
 Contributing to open source :)
 </br>
