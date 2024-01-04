@@ -4,16 +4,16 @@
 [![LinkedIn](https://img.shields.io/badge/-Omkar%20Borhade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-borhade-52777b131/)](https://www.linkedin.com/in/omkar-borhade-52777b131/)
 [![Gmail](https://img.shields.io/badge/-omkarborhade121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omkarborhade121@gmail.com)](mailto:omkarborhade121@gmail.com)</br>
 </br>
-A mechanical engineer turned to software engineer and AI devolaper
+A mechanical engineer turned to software engineer and AI devolaper</br>
 </br>
 Passionate about the intersection of artificial intelligence, machine learning, and cutting-edge technologies, I thrive on transforming challenges into opportunities. 🌟
-</br>
+</br></br>
 🔍 Currently immersed in the realm of AI,In corporate, I'm working on project focused on leveraging Graph Convolutional Neural Networks (Graph CNN) to identify machining features in a CAD Model. 🛠️ The goal is to redefine precision and efficiency in machining processes through the lens of advanced machine learning techniques.
-</br>
+</br></br>
 🌐 Beyond my work, I'm an avid learner, always exploring the latest advancements in the AI landscape. Whether it's diving into research papers, or contributing to open-source projects, I'm committed to staying at the forefront of technological evolution.
-</br>
+</br></br>
 👥 Let's connect and explore the limitless possibilities of AI and machine learning. Open to collaborations, challenging projects, and engaging conversations.
-</br>
+</br></br>
 
 ## 🛸 Languages:
 <div>
