@@ -6,7 +6,13 @@
 </br>
 A mechanical engineer turned to software engineer and AI devolaper
 </br>
-Contributing to open source :)
+Passionate about the intersection of artificial intelligence, machine learning, and cutting-edge technologies, I thrive on transforming challenges into opportunities. 🌟
+</br>
+🔍 Currently immersed in the realm of AI,In corporate, I'm working on project focused on leveraging Graph Convolutional Neural Networks (Graph CNN) to identify machining features in a CAD Model. 🛠️ The goal is to redefine precision and efficiency in machining processes through the lens of advanced machine learning techniques.
+</br>
+🌐 Beyond my work, I'm an avid learner, always exploring the latest advancements in the AI landscape. Whether it's diving into research papers, or contributing to open-source projects, I'm committed to staying at the forefront of technological evolution.
+</br>
+👥 Let's connect and explore the limitless possibilities of AI and machine learning. Open to collaborations, challenging projects, and engaging conversations.
 </br>
 
 ## 🛸 Languages:
